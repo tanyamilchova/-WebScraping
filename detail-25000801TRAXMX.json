@@ -1,0 +1,219 @@
+[
+  [
+    {
+      "Case Number": [
+        "042025TR000801TRAXMX\n[25000801TRAXMX]"
+      ],
+      "Filed Date": [
+        "02/10/2025"
+      ],
+      "Case Type": [
+        "Traffic Infraction 52-D"
+      ],
+      "Status": [
+        "CLOSED"
+      ],
+      "Contested": [
+        "NO"
+      ]
+    }
+  ],
+  [
+    {
+      "": [
+        ""
+      ],
+      "Charge Seq #": [
+        "1"
+      ],
+      "Description": [
+        "UNLAWFUL SPEED"
+      ],
+      "Date": [
+        "03/18/2025"
+      ],
+      "Phase": [
+        "Court:Adjudicated Guilty"
+      ],
+      "Trial": [
+        "No Trial"
+      ]
+    }
+  ],
+  [
+    {
+      "Party Name": [
+        "STARLING, MICHAEL",
+        "STEWARD, TAYLOR DANIELLESearch This Party"
+      ],
+      "Party Type": [
+        "CHARGING OFFICER",
+        "DEFENDANT"
+      ],
+      "Attorney": [
+        "",
+        ""
+      ],
+      "Bar ID": [
+        "",
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Image": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Doc #": [
+        "18",
+        "17",
+        "16",
+        "15",
+        "14",
+        "13",
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "Action Date": [
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025",
+        "03/18/2025"
+      ],
+      "Description": [
+        "Case Status set to CLOSED",
+        "PAYMENT INFORMATION",
+        "RECEIPT",
+        "Payment received: $281.00 Receipt Number M 13505740",
+        "Court Action: Paid Fine for SEQ: 1",
+        "Trial type of No trial required entered for SEQ: 1",
+        "Defendant entered a plea of Guilty/Admit for SEQ: 1",
+        "TR Paid Fine In Full action date changed to 3/18/2025",
+        "TR Paid Fine In Full set on 3/18/2025",
+        "TR Pay Fine with a due date 5/9/2025 updated with compliance action of TR Paid Fine In Full"
+      ],
+      "Pages": [
+        "",
+        "1",
+        "1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Assigned Date": [
+        "No records found."
+      ],
+      "Withdraw Date": [
+        ""
+      ],
+      "Judicial Officer": [
+        ""
+      ],
+      "Type": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Event Date": [
+        "No records found."
+      ],
+      "Judge": [
+        ""
+      ],
+      "Docket Type": [
+        ""
+      ],
+      "Location": [
+        ""
+      ],
+      "Prosecutor": [
+        ""
+      ],
+      "Defendant Attorney": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Sentences": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Financial Summary": [
+        "Assessment",
+        "Total: $281.00",
+        "Paid to Date: $281.00",
+        "Balance Due: $0.00",
+        "Restitution",
+        "Total: $0.00",
+        "Paid to Date: $0.00",
+        "Balance Due: $0.00"
+      ]
+    },
+    {
+      "Count": [
+        ""
+      ],
+      "Assessment Due": [
+        "$281.00"
+      ],
+      "Assessment Paid to Date": [
+        "$281.00"
+      ],
+      "Restitution Due": [
+        "$0.00"
+      ],
+      "Restitution Paid to Date": [
+        "$0.00"
+      ],
+      "Last Payment Date": [
+        "-"
+      ]
+    }
+  ],
+  [
+    {
+      "Reopen Date": [
+        "No records found."
+      ],
+      "Reopen Close Date": [
+        ""
+      ],
+      "Reopen Reason": [
+        ""
+      ]
+    }
+  ]
+]
